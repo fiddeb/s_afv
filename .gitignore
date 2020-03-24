@@ -20,5 +20,6 @@ htmlcov
 pylint-report.txt
 sonar-project.properties
 .vscode
-
+*.arw
+*.ARW
 tmp/
